@@ -6,3 +6,6 @@ This is new merge filed.
 
 
  master
+ 
+ 
+ commiting the changes
